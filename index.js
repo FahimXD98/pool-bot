@@ -147,4 +147,4 @@ function getWorkerListEmbedField(perWorkerStats) {
     .join("\n");
 }
 
-client.login(botToken);
+client.login(botToken);MTE4NTQyNDMxMjcxNTQ1MjQyNg.GAzUu6.1QFN5FtgK6rJK0M0gvutsK9b7OA6UC62Kh7SNY
