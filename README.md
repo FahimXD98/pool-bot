@@ -1,8 +1,8 @@
 # Project Title
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepo)](https://github.com/LegendYt4k/pool-bot/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepo)](https://github.com/LegendYt4k/pool-bot/issues)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo)](https://github.com/LegendYt4k/pool-bot)
+[![GitHub license](https://img.shields.io/github/license/LegendYt4k/pool-bot)](https://github.com/LegendYt4k/pool-bot/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/LegendYt4k/pool-bot)](https://github.com/LegendYt4k/pool-bot/issues)
+[![GitHub stars](https://img.shields.io/github/stars/LegendYt4k/pool-bot)](https://github.com/LegendYt4k/pool-bot)
 
 ## Description
 
