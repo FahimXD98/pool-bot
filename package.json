@@ -1,0 +1,19 @@
+{
+  "name": "pool-bot",
+  "version": "1.0.0",
+  "description": "LegendYt4k",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LegendYt4k",
+  "license": "EPL-2.0",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.2.6"
+  }
+}
